@@ -2,11 +2,11 @@
 .mobile-controls {
   display: none;
 }
-@media (max-width: 1025px) {
+/* @media (max-width: 1025px) {
   .mobile-controls {
     display: flex !important;
   }
-}
+} */
 /* Prevent double-tap zoom on mobile for game controls */
 .mobile-btn {
   touch-action: manipulation;
